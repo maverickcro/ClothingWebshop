@@ -4,6 +4,7 @@
     flex-direction: column;
     height: 350px;
     align-items: center;
+    
   
     .image {
       width: 100%;
@@ -11,6 +12,8 @@
       background-size: cover;
       background-position: center;
       margin-bottom: 5px;
+      border-radius: 5%;
+      box-shadow: 0 8px 6px -6px black;
     }
   
     .collection-footer {
