@@ -1,11 +1,14 @@
 body {
     font-family: 'Open Sans Condensed';
     padding: 20px 60px;
+    background-image: linear-gradient(to right, lightblue, lightgrey , lightcoral);
+    
 }
 
 a {
     color: black;
     text-decoration: none;
+    font-weight: bolder;
 }
 
 * {
